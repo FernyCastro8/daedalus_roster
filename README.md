@@ -2,7 +2,6 @@
 
 ## Description
 
-
 Daedalus Roster, is a user-friendly job board application designed to connect talented individuals with exciting job opportunities. Whether you're a freelancer looking for project-based work or a user seeking skilled professionals. Freelancers can effortlessly create and publish detailed job listings, showcasing their expertise, availability, and desired compensation. Meanwhile, users can explore a vast array of job listings, filtering by industry, skillset, location, and more. The application offers a seamless experience, allowing users to easily communicate, review proposals, and hire talented freelancers. Daedalus is providing a streamlined and efficient solution for freelancer.
 
 ## Table of Contents
