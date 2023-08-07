@@ -62,7 +62,7 @@ Additionally, a user-friendly navbar is provided to easily navigate between rout
 
 
 ---
-## Credits / Contributors
+## Credits
 
 #### Ferny Castro 
 🔗 [Github](https://github.com/FernyCastro8)
@@ -83,9 +83,13 @@ Additionally, a user-friendly navbar is provided to easily navigate between rout
 
 Copyright (c) 2023 Ferny Castro, Austin Lewis, Ryan Floersch, Robert Palmer
 
-🔗 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ---
 ## Demo
+
+* Landing page
+  
+<img width="1657" alt="Screen Shot 2023-06-15 at 9 38 10 PM" src="https://github.com/FernyCastro8/daedalus_roster/assets/124219457/5261546b-08fb-44df-89a0-3668c4e4cc4e">
 
