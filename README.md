@@ -50,15 +50,12 @@ and enter the following command:
 ---
 ## Usage
 
-Visit the deployed website [by clicking here!](https://desolate-wave-03544.herokuapp.com/)
+Visit the deployed website [by clicking here!]()
 
-``` 
 Upon visiting the designated URL, USERS are rendered a Landing page with the ability to create an account and become a member. 
 USER who are not members are still allowed to view job listings but do not have the ability to create or edit listings. 
 If a USER is already a member, they are directed to a profile page where they can view and update their credentials. 
 Additionally, a user-friendly navbar is provided to easily navigate between routes, including a route page to view job listings.
-```
-
 
 ---
 ## Credits
