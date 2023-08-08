@@ -61,16 +61,8 @@ Additionally, a user-friendly navbar is provided to easily navigate between rout
 ## Credits
 
 #### Ferny Castro 
-🔗 [Github](https://github.com/FernyCastro8)
+🔗 [LinkedIn](https://www.linkedin.com/in/ferny-castro/)
 
-#### Austin Lewis
-🔗 [Github](https://github.com/AustinL96)
-
-#### Ryan Floersch
-🔗 [Github](https://github.com/RyanmFloersch)
-
-#### Robert Palmer
-🔗 [Github](https://github.com/Palm717)
 
 ---
 ## License
