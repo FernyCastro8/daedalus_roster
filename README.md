@@ -1,4 +1,4 @@
-# Daedalus.Roster
+# Daedalus Roster
 
 ## Description
 
